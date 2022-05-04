@@ -1,10 +1,8 @@
-[system programming lecture]
+[LINUX_MyShell]
 
--project 1 baseline
+-Fork(), Execve()
 
-csapp.{c,h}
-        CS:APP3e functions
-
-shellex.c
-        Simple shell example
+-Pipelining
+        
+-Background & Foreground processing
 
